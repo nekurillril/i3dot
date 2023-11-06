@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nekurill/Pictures/wallpaper/2girl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#141518",
+        "foreground": "#e5dfe1",
+        "cursor": "#e5dfe1"
+    },
+    "colors": {
+        "color0": "#141518",
+        "color1": "#6D7685",
+        "color2": "#A59B9E",
+        "color3": "#CBB4B6",
+        "color4": "#CFC4BE",
+        "color5": "#DBBEC2",
+        "color6": "#E1BFC5",
+        "color7": "#e5dfe1",
+        "color8": "#a09c9d",
+        "color9": "#6D7685",
+        "color10": "#A59B9E",
+        "color11": "#CBB4B6",
+        "color12": "#CFC4BE",
+        "color13": "#DBBEC2",
+        "color14": "#E1BFC5",
+        "color15": "#e5dfe1"
+    }
+}

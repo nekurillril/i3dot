@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nekurill/Pictures/wallpaper/power_lines.png",
+    "alpha": "100",
+    "special": {
+        "background": "#221c26",
+        "foreground": "#ddc7c4",
+        "cursor": "#ddc7c4"
+    },
+    "colors": {
+        "color0": "#221c26",
+        "color1": "#CBB479",
+        "color2": "#70708B",
+        "color3": "#996E96",
+        "color4": "#C774C5",
+        "color5": "#738F97",
+        "color6": "#A19498",
+        "color7": "#ddc7c4",
+        "color8": "#9a8b89",
+        "color9": "#CBB479",
+        "color10": "#70708B",
+        "color11": "#996E96",
+        "color12": "#C774C5",
+        "color13": "#738F97",
+        "color14": "#A19498",
+        "color15": "#ddc7c4"
+    }
+}

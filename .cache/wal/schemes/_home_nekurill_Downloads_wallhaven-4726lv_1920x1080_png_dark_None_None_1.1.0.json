@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/nekurill/Downloads/wallhaven-4726lv_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#d78b81",
+        "cursor": "#d78b81"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#BB2A17",
+        "color2": "#BD2B16",
+        "color3": "#B22D18",
+        "color4": "#BC2B19",
+        "color5": "#942921",
+        "color6": "#AD2C21",
+        "color7": "#d78b81",
+        "color8": "#96615a",
+        "color9": "#BB2A17",
+        "color10": "#BD2B16",
+        "color11": "#B22D18",
+        "color12": "#BC2B19",
+        "color13": "#942921",
+        "color14": "#AD2C21",
+        "color15": "#d78b81"
+    }
+}
