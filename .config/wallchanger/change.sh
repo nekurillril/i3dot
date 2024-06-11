@@ -1,5 +1,5 @@
 #!/bin/bash
 pic=$HOME/Pictures/wallpaper/
-rofipic="$(ls "$pic" | rofi -dmenu)"
+rofipic="$(ls "$pic" | rofi -dmenu -p "    ")"
 
-feh --bg-scale "$pic"/"$rofipic"
+feh --bg-fill "$pic"/"$rofipic"

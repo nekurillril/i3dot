@@ -1,0 +1,72 @@
+[colors.bright]
+black = "#9e9e9e"
+blue = "#A8A8A8"
+cyan = "#C8C8C8"
+green = "#878787"
+magenta = "#B8B8B8"
+red = "#777777"
+white = "#e2e2e2"
+yellow = "#989898"
+
+[colors.normal]
+black = "#070707"
+blue = "#A8A8A8"
+cyan = "#C8C8C8"
+green = "#878787"
+magenta = "#B8B8B8"
+red = "#777777"
+white = "#e2e2e2"
+yellow = "#989898"
+
+[colors.primary]
+background = "#070707"
+foreground = "#e2e2e2"
+
+[cursor]
+style = "Block"
+vi_mode_style = "Block"
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 11
+
+#[font.bold]
+#family = "Terminus"
+#style = "Bold"
+
+[font.glyph_offset]
+y = 0
+
+#[font.italic]
+#family = "Terminus"
+#style = "Italic"
+
+#[font.normal]
+#family = "everson mono"
+#style = "Regular"
+
+[font.normal]
+family = "Terminus"
+style = "Regular"
+
+[font.offset]
+y = 0
+#x = -1
+
+[scrolling]
+history = 1000
+multiplier = 3
+
+[window]
+decorations = "none"
+opacity = 1.0
+
+[window.dimensions]
+columns = 80
+lines = 35
+
+[window.padding]
+x = 10
+y = 10

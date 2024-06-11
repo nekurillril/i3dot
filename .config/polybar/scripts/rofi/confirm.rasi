@@ -17,8 +17,8 @@ configuration {
 /*****----- Global Properties -----*****/
 * {
     /* Resolution : 1920x1080 */
-    mainbox-spacing:             100px;
-    mainbox-margin:              150px 400px;
+    mainbox-spacing:             94px;
+    mainbox-margin:              50px 100px;
     message-margin:              0px 350px;
     message-padding:             15px;
     message-border-radius:       15px;
