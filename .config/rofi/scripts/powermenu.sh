@@ -2,24 +2,24 @@
 
 uptime=$(uptime -p | sed -e 's/up //g')
 
-rofi_command="rofi -no-config -theme ~/.config/polybar/scripts/rofi/powermenu.rasi"
+rofi_command="rofi -no-config -theme ~/.config/rofi/scripts/rasi/powermenu.rasi"
 #rofi_command="rofi"
 
 # Options
-shutdown=''
-reboot=''
-lock=''
-suspend=''
-logout=''
-yes=''
-no=''
+shutdown='󰤆'
+reboot='󰑐'
+lock='󰍁'
+suspend='󰤄'
+logout='󰠜󰠚'
+yes='󰄬'
+no='󰅖'
 
 # Rofi CMD
 rofi_cmd() {
 	rofi -dmenu \
 		-p "Goodbye ${USER}" \
 		-mesg "Uptime: $uptime" \
-		-theme ~/.config/polybar/scripts/rofi/powermenu.rasi
+		-theme ~/.config/rofi/scripts/rasi/powermenu.rasi
 }
 
 # Confirmation CMD
@@ -27,7 +27,7 @@ confirm_cmd() {
 	rofi -dmenu \
 		-p 'Confirmation' \
 		-mesg 'Are you Sure?' \
-		-theme ~/.config/polybar/scripts/rofi/confirm.rasi
+		-theme ~/.config/rofi/scripts/rasi/confirm.rasi
 }
 
 # Ask for confirmation

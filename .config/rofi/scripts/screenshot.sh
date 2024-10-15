@@ -59,10 +59,10 @@ rvstf() {
 }
 
 get_options() {
-  echo "  Capture Region"
+  echo "󰩭  Capture Region"
   echo "  Capture Screen"
-  echo "  Record Region (MP4)"
-  echo "  Record Screen (MP4)"
+  echo "󰋲  Record Region (MP4)"
+  echo "󰷝  Record Screen (MP4)"
 }
 
 check_deps() {
@@ -109,16 +109,16 @@ main() {
 
   # run the selected command
   case $choice in
-    '  Capture Region')
+    '󰩭  Capture Region')
       crtc
       ;;
     '  Capture Screen')
       cstc
       ;;
-    '  Record Region (MP4)')
+    '󰋲  Record Region (MP4)')
       rvrtf
       ;;
-    '  Record Screen (MP4)')
+    '󰷝  Record Screen (MP4)')
       rvstf
       ;;
   esac
